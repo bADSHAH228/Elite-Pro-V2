@@ -12,8 +12,8 @@ global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
 global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
+global.ownernumber = '923271656076' //ur owner number
+global.ownername = '𓄂𓃮𓃬͓R͓A͓N͓A͓ S͓H͓A͓N͓𓄂𓃬͓𓃮' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
@@ -23,7 +23,7 @@ global.packname = "Sticker By"
 global.author = "ELITE-PRO-V2"
 global.creator = "2348109263390@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348109263390"] // Premium User
+global.premium = ["923271656076"] // Premium User
 global.hituet = 0
 
 //bot sett
